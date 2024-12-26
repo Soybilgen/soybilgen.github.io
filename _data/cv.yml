@@ -3,10 +3,12 @@
   contents:
     - name: Full Name
       value: Baris Soybilgen
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Location
+      value: Stockholm, Sweden
+    - name: Email
+      value: soybilgen@gmail.com
+    - name: Summary
+      value: Experienced data scientist and economist with in-depth knowledge of machine learning models, statistical methods, and forecasting techniques.
 
 - title: Education
   type: time_table
