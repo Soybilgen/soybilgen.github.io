@@ -439,6 +439,13 @@ ninja.data = [{
           window.open("mailto:%73%6F%79%62%69%6C%67%65%6E@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
+        id: 'social-medium',
+        title: 'Medium',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://medium.com/@soybilgen", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
