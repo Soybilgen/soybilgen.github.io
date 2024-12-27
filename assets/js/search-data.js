@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-a-simple-inline-announcement",
+        },{id: "post-generating-sql-queries-from-natural-language",
+      
+        title: "Generating SQL queries from natural language",
+      
+      description: "In this post, I will show how to convert natural language questions into SQL queries by the help of a Large Language Model (LLM) and then retrieve information from the database using the generated SQL query.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/llm/";
+        
+      },
+    },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
