@@ -34,7 +34,7 @@ ninja.data = [{
       
         title: "Generating SQL queries from natural language",
       
-      description: "In this post, I will show how to convert natural language questions into SQL queries by the help of a Large Language Model (LLM) and then retrieve information from the database using the generated SQL query.",
+      description: "",
       section: "Posts",
       handler: () => {
         
