@@ -38,7 +38,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/assets/pdf/example_pdf.pdf";
+          window.location.href = "/www.example.com";
         
       },
     },{id: "news-a-simple-inline-announcement",
