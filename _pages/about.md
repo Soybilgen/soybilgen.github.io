@@ -19,6 +19,6 @@ Welcome, I am a senior data scientist at Sambla Group, building cutting-edge dat
 
 Previously, I was a data analyst at the Governance and Local Development Institute in 2022, research scientist at the Center for Financial Studies between 2015 and 2022, and a research assistant at the Center for Economic and Social Research between 2010 and 2015. I have completed my PhD and MA in economics and BSc in systems engineering.
 
-Over the years, I've authored 17 scientific papers, contributed 3 book chapters, and written numerous research briefs. My expertise lies in building predictive models, analyzing macroeconomic and financial systems, and applying machine learning and statistical techniques to address real-world challenges.
+I've authored 17 scientific papers, contributed 3 book chapters, and written numerous research briefs. My expertise lies in building predictive models, analyzing macroeconomic and financial systems, and applying machine learning and statistical techniques to address real-world challenges.
 
 I am passionate about utilizing data to inform strategic decision-making and generate impactful outcomes. I welcome inquiries about potential collaborations.
